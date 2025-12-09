@@ -11,14 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-<div class="publications">
-
-### Methodology
+### Methodological Research
 
 {% bibliography --query @*[keywords~=methodology] %}
 
-### Applied
+### Applied Research
 
 {% bibliography --query @*[keywords~=applied] %}
-
-</div>
