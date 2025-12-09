@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, Department of Biostatistics, University of Washington
+subtitle:
 
 profile:
   align: right
   image: jaewon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    F-123, Health Sciences Building  
-    Department of Biostatistics, University of Washington  
-    Seattle, WA 98195, USA  
+    F-123, Health Sciences Building<br>
+    Department of Biostatistics, University of Washington<br>
+    Seattle, WA 98195, USA<br>
     imjaewon@uw.edu
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
