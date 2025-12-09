@@ -6,7 +6,7 @@ subtitle: PhD student, Department of Biostatistics, University of Washington
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jaewon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     F-123, Health Sciences Building  
