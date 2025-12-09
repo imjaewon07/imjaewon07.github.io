@@ -13,11 +13,11 @@ nav_order: 2
 
 <div class="publications" markdown="1">
 
-### Methodological Research
+** Methodological Research
 
 {% bibliography --query @*[keywords~=methodology] %}
 
-### Applied Research
+** Applied Research
 
 {% bibliography --query @*[keywords~=applied] %}
 
